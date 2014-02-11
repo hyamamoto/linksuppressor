@@ -1,0 +1,5 @@
+target/
+.DS_Store
+linksuppressor-chrome.zip
+linksuppressor-chrome.crx
+linksuppressor-chrome.pem

@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "LinkSuppressor: リンクを選択可能に"
+  },
+  "extDescription": {
+    "message":"[Alt],[Window],[Command]キーのいずれかが押された状態でのリンクドラッグを無効にすることで、「リンクの一部」を簡単に選択可能にする、軽量な Chrome 拡張です。"
+  }
+}
