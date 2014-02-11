@@ -3,6 +3,6 @@
     "message": "LinkSuppressor: Make Any Link Selectable"
   },
   "extDescription": {
-    "message":"A lightweight extension that makes any link selectable while [Alt], [Windows], or [Command] key is pressed."
+    "message":"A lightweight extension that makes any link selectable while [Alt], [Meta], or [Command] key is pressed."
   }
 }
