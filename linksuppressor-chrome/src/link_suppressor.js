@@ -76,7 +76,7 @@ window.addEventListener('load',function(e){
         window.addEventListener('mousedown', onMouseDown, false);
     }
     var currentUrl = window.location.href;
-    if ( currentUrl && currentUrl.indexOf("://news.google.com") != -1) {
+    if ( currentUrl && currentUrl.indexOf("://news.google.") != -1) {
         var elements = document.getElementsByClassName("article");
         for (i = 0; i < elements.length; i++) {
             var element = elements[i];
